@@ -7,6 +7,7 @@
  
 }
 
+
 .nav a{
     color: inherit;
     text-decoration: none;
@@ -30,4 +31,74 @@
 }
 .abtP{
     text-align:center ;
+}
+
+.logos{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.github{
+    height: 60px;
+    width: 60px;
+}
+.linkedin{
+    height: 60px;
+    width: 60px;
+}
+
+.github:hover {
+ background-color: white;
+}
+.linkedin:hover {
+    background-color: white;
+   }
+.meimg{
+    align-items: center;
+    justify-content: center; 
+}
+
+.me{
+
+    height: 250px;
+    width: 200px;
+
+}
+
+.img1{
+height: 100px;
+width: 200px;
+
+}
+.projects{
+    align-items: center;
+
+}
+.img1:hover {
+    transform: scale(1.1);
+  }
+
+li{
+    align-items: center;
+    justify-content: center;
+    
+}
+.resumepic{
+    height: 700px;
+    width: 600px;
+
+}
+.resdoc{
+    align-items: center;
+    justify-content: center;
+}
+.reshead{
+    align-items: center;
+    justify-content: center;
+}
+.download{
+    padding-top: 15px;
+    padding-left: 10px;
 }

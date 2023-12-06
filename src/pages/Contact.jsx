@@ -2,7 +2,8 @@ function Contact(){
     return (
         <>
         
-    <h1>Contact page</h1>
+    <h1>Contact Me!</h1>
+    
 
     </>
     );
