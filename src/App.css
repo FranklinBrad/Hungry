@@ -102,3 +102,10 @@ li{
     padding-top: 15px;
     padding-left: 10px;
 }
+.meimg {
+    display: flex;
+    justify-content: center;
+  }
+  .me {
+    border-radius: 50%;
+  }
