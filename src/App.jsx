@@ -20,6 +20,12 @@ function App() {
         <Route path='/portfolio' element={<Portfolio/>}></Route>
         <Route path='/resume' element={<Resume/>}></Route>
       </Routes>
+<footer className='foot'>
+  <p>
+    2023 all right reserved Franklin Bradley
+  </p>
+</footer>
+
 
     
  

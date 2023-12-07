@@ -10,8 +10,8 @@ function Contact(){
    <div>
     <h2>send me an email here</h2>
    <form action="https://formsubmit.co/franklin1jbradley@gmail.com" method="POST">
-     <input type="text" name="name" required/>
-     <input type="email" name="email" required/>
+     <input type="text" name="name" placeholder='Enter Text'required/>
+     <input type="email" name="email" placeholder='Enter Email'required/>
 
     
      <button type="submit">Send</button>
