@@ -2,7 +2,7 @@
 
   ## Description
   
-  This is my portfolio, it gives a small decription of my, 6 examples of my work, my resume, as well as a way to contact  me.
+  Ever been stuck at home and not been able to decide what to make for dinner? With Hungry you can generate a random meal and get a full list of ingredients and instructions on how to cook the meal.
  
   ## Installation
  
@@ -10,13 +10,11 @@
   
   ## Usage
  
-  You open the front page and read the about me section, then you have the option to view my github orlinked in profile. If you go to the nav bar you will see options for , portfoilio, resume, and contact me. You can then visit any page as needed.
+  click the generate random meal button as many times as you would like and enjoy!
 
-  ## sources
 
-I used some boilerplate code given to my class from my teacher. I also used some code snipets from past classwork.
-## deployed add
-https://main--charming-banoffee-059372.netlify.app/
+## deployed app
+[https://main--charming-banoffee-059372.netlify.app/](https://jocular-otter-dbc985.netlify.app)
 
   ## Questions
 
