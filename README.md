@@ -12,6 +12,11 @@
  
   click the generate random meal button as many times as you would like and enjoy!
 
+  ## Screen Shots
+
+  
+![hungrysc](https://github.com/FranklinBrad/Hungry/assets/144159410/4029739e-2c04-4bf3-a98f-81c8957dfed2)
+
 
 ## deployed app
 [https://main--charming-banoffee-059372.netlify.app/](https://jocular-otter-dbc985.netlify.app)
